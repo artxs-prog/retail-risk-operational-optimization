@@ -98,9 +98,24 @@ The project combines exploratory data analysis (EDA), statistical testing, and i
 * SPSS Analysis
 * Business Decision Support
 
-### Project Outcome
-This project demonstrates how statistical analysis and business intelligence tools can be integrated to identify operational risks, understand customer behavior, evaluate business performance, and support data-driven decision-making in a retail environment.
+### Key Findings
+
+#### Return Rate Analytics
+
+* Customer sentiment exhibits a strong negative relationship with return rates, indicating that higher customer satisfaction is associated with fewer product returns.
+* Discount percentage shows a positive relationship with return rates, suggesting that aggressive markdown strategies may increase the likelihood of product returns.
+* Multiple linear regression results indicate that both customer sentiment and discount percentage are statistically significant predictors of return rate (**p < 0.001**).
+* Among the variables analyzed, customer sentiment emerged as the strongest factor associated with return behavior.
+
+#### Operational Risk Analytics
+
+* Customer footfall remains relatively stable across different weather conditions, with a slight increase observed during periods of low weather severity.
+* Locations classified as having stable inventory conditions consistently demonstrate higher average footfall compared to locations experiencing critical overstock situations.
+* Two-way ANOVA results suggest that weather severity and stock level independently influence operational performance, with no significant interaction effect observed between the two factors.
+* The findings indicate that weather-related disruptions and overstock risks should be managed as separate operational challenges.
+
 
 ### Author
 **Derick H. Soriano**
-Aspiring Data Analyst | Business Analytics | Risk Analytics 
+
+Aspiring Data Analyst 
